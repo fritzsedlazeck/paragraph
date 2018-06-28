@@ -286,7 +286,7 @@ The complete list of requrements can be found in [requirements.txt](requirements
 
   ```bash
   git clone https://github.com/Illumina/paragraph.git
-  cd paragraph-tools
+  cd paragraph
   ```
 
   Then create a new directory for the program and compile it there:
